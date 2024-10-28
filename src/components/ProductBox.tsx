@@ -1,14 +1,12 @@
 import { ProductType } from "../lib/definitons";
 import ProductCard from "./ProductCard";
 
-export default function ProductBox({ productList }: { productList: ProductType[] }) {
+export default function ProductBox({ productListBox }: { productListBox: ProductType[] }) {
 
     return (
-        <article>
-            {productList.map((product) => (
-                <ProductCard product={product} key={product.id} />)
-            )}
-        </article>
+        <>
+            {productListBox.map((product) => (<ProductCard product={product} key={product.id} />))}
+        </>
 
 
     )

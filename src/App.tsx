@@ -10,14 +10,11 @@ function App() {
 
   const productList: ProductType[] = data;
 
-
-
   return (
     <>
-      <ProductFilter />
-      <ProductBox productList={productList} />
-      <ProductDetails />
-
+      <ProductFilter productListFilter={productList} />
+      <ProductBox productListBox={productList} />
+      <ProductDetails productListCart={productList} />
     </>
   )
 }

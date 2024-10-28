@@ -5,6 +5,10 @@ export default function ProductCard({ product }: { product: ProductType }) {
 
     const { name, image, price, category } = product
 
+
+
+
+
     return (
         <section>
             <img src={image} alt={`Photo d'un pin's ${name}`} />

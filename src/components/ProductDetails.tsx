@@ -1,9 +1,10 @@
 import { ProductType } from "../lib/definitons";
 
-export default function ProductDetails({ productListCart }: { productListCart: ProductType[] }) {
+export default function ProductDetails({ productList }: { productList: ProductType[] }) {
+
 
     return (
-        <section>
+        <section className="b-red-200">
             <h2>CART</h2>
             <img src="" alt="" />
             <h3></h3>

@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Delaware",
+        "image": "https://img.freepik.com/free-photo/delaware-flag_187299-38242.jpg?ga=GA1.1.1863717150.1728563873",
+        "price": "5.90$",
+        "category": "USA"
+    },
+    {
+        "id": 2,
+        "name": "South Dakota",
+        "image": "https://img.freepik.com/free-photo/south-dakota-flag_187299-38370.jpg?ga=GA1.1.1863717150.1728563873",
+        "price": "5.90$",
+        "category": "USA"
+    },
+    {
+        "id": 3,
+        "name": "Tower",
+        "image": "https://img.freepik.com/premium-photo/pin-badge-mockup_1199903-66473.jpg?ga=GA1.1.1863717150.1728563873",
+        "price": "6.50$",
+        "category": "ART"
+    },
+    {
+        "id": 4,
+        "name": "Mockup",
+        "image": "https://img.freepik.com/premium-photo/pin-badge-mockup_1029473-756794.jpg?ga=GA1.1.1863717150.1728563873",
+        "price": "6.50$",
+        "category": "ART"
+    },
+    {
+        "id": 5,
+        "name": "Ice Creams",
+        "image": "https://img.freepik.com/premium-photo/three-colorful-ice-cream-cones-with-words-ice-cream-them_1230717-220527.jpg?ga=GA1.1.1863717150.1728563873",
+        "price": "10$",
+        "category": "FUN"
+    },
+    {
+        "id": 6,
+        "name": "Glossy VIP",
+        "image": "https://img.freepik.com/premium-photo/glossy-button-pin-mockup_1029473-627611.jpg?ga=GA1.1.1863717150.1728563873",
+        "price": "4.50$",
+        "category": "FUN"
+    }
+    
+]

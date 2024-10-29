@@ -3,3 +3,17 @@
 @tailwind utilities;
 
 
+@font-face{
+    font-family: "JetBrainsMono";
+    src: url("../public/fonts/JetBrainsMono-Regular.ttf");
+
+    
+}
+@font-face{
+    font-family: "FiraCode";
+    src: url("../public/fonts/JetBrainsMono-Regular.ttf");
+}
+
+* {
+    font-family: "JetBrainsMono"
+}

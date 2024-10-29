@@ -3,7 +3,7 @@ import ProductBox from './components/ProductBox'
 import ProductFilter from './components/ProductFilter'
 import data from "./assets/data/data.json"
 import type { ProductType } from './lib/definitons'
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import NavBar from './NavBar'
 import Footer from './Footer'
 import ProductDetails from './components/ProductDetails'

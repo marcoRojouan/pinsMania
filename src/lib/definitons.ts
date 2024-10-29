@@ -5,6 +5,5 @@ export type ProductType = {
     price: string;
     category: string;
     details: string;
-    detailsboo: boolean;
     added: boolean;
 };

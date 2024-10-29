@@ -3,6 +3,7 @@ import { ProductType } from "../lib/definitons";
 
 
 export default function ProductCard({ product, productDetails, currentDetail, setCurrentDetails }: { product: ProductType, productDetails: string[], currentDetail: string, setCurrentDetails: (product: string) => void }) {
+    console.log(currentDetail)
 
     const { name, image, price, category, added } = product
 

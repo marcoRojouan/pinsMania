@@ -52,5 +52,15 @@
         "category": "FUN",
         "details": "Un pin's brillant et fun",
         "added": false
+    },    
+    {
+        "id": 7,
+        "name": "Sheraf",
+        "image": "https://cdn.discordapp.com/attachments/1280456637857005568/1300836084044791839/sheraf.png?ex=67224982&is=6720f802&hm=cf95d6ebc6cc7b01f6cad55305801d245923a278f83e8c6779c5a069b196ac70&",
+        "price": "inestimable",
+        "category": "LEPLUSCLASSEDUMONDE",
+        "details": "Un pin's hyper rare d'une collection hyper rare",
+        "added": false
     }    
+    
 ]

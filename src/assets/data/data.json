@@ -5,6 +5,8 @@
         "image": "https://img.freepik.com/free-photo/delaware-flag_187299-38242.jpg?ga=GA1.1.1863717150.1728563873",
         "price": "5.90$",
         "category": "USA",
+        "details": "Un pin's du Delaware",
+        "detailsboo": false,
         "added": false
     },
     {
@@ -13,6 +15,8 @@
         "image": "https://img.freepik.com/free-photo/south-dakota-flag_187299-38370.jpg?ga=GA1.1.1863717150.1728563873",
         "price": "5.90$",
         "category": "USA",
+        "details": "Un pin's du South Dakota",
+        "detailsboo": false,
         "added": false
     },
     {
@@ -21,6 +25,8 @@
         "image": "https://img.freepik.com/premium-photo/pin-badge-mockup_1199903-66473.jpg?ga=GA1.1.1863717150.1728563873",
         "price": "6.50$",
         "category": "ART",
+        "details": "Un pin's qui nous fait prendre de la hauteur",
+        "detailsboo": false,
         "added": false
     },
     {
@@ -29,6 +35,8 @@
         "image": "https://img.freepik.com/premium-photo/pin-badge-mockup_1029473-756794.jpg?ga=GA1.1.1863717150.1728563873",
         "price": "6.50$",
         "category": "ART",
+        "details": "Un pin's qui inspire",
+        "detailsboo": false,
         "added": false
     },
     {
@@ -37,6 +45,8 @@
         "image": "https://img.freepik.com/premium-photo/three-colorful-ice-cream-cones-with-words-ice-cream-them_1230717-220527.jpg?ga=GA1.1.1863717150.1728563873",
         "price": "10$",
         "category": "FUN",
+        "details": "Un pin's qui vous fera grelloter",
+        "detailsboo": false,
         "added": false
     },
     {
@@ -45,6 +55,8 @@
         "image": "https://img.freepik.com/premium-photo/glossy-button-pin-mockup_1029473-627611.jpg?ga=GA1.1.1863717150.1728563873",
         "price": "4.50$",
         "category": "FUN",
+        "details": "Un pin's brillant et fun",
+        "detailsboo": false,
         "added": false
     }    
 ]

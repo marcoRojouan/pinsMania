@@ -31,7 +31,7 @@ export default function ProductCard({ product, productDetails, currentDetail, se
             <span className="text-lg pb-2">{price}</span>
             <button className="max-w-32 pb-2" type="button" onClick={handleDetails}>More About</button>
             <button className=" shadow-md text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 font-medium rounded-md text-sm px-5 py-2.5 me-2 mb-2 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600" type="button" onClick={handleAddcart}>Add to cart {cartAdd ? "✅" : "❌"} </button>
-            <button> oups je sers a rien</button>
+            <button className="outline-1">oups je sers a rien</button>
 
         </section>
     )
